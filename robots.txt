@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://silvan25-cloud.github.io/gym-accessory/sitemap.xml
